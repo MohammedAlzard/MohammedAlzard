@@ -1,31 +1,25 @@
 <h1 align="center">Hi 👋, I'm Mohammed A. Alzard</h1>
 <h3 align="center">Full Stack Vue.js & PHP Laravel & RestFul Api</h3>
 
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedalzard&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedalzard" /> </p>
+<p align="left"> <a href="https://twitter.com/mohammed_alzard" target="blank"><img src="https://img.shields.io/twitter/follow/mohammed_alzard?logo=twitter&style=for-the-badge" alt="mohammed_alzard" /></a> </p> -->
+
+
+<!-- ### My name is Mohammed A. Alzard and I'm a Full Stack Vuejs & PHP Laravel & RestFul Api! 👋 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedalzard&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedalzard" /> </p>
+
+- 🔭 I’m currently working at ... **IT Company**
+- 🌱 I’m currently teaching ... **ERPNext**
+- 👯 I’m looking to collaborate on ... **ERPNext**
+- 🤔 I’m looking for help with ... **ERPNext System**
+- 💬 Ask me about ... **Anything**
+- 📫 How to reach me: ... [Twitter](https://twitter.com/mohammed_alzard)
+- 📫 Also on YouTube: ... [Instagram](https://www.instagram.com/mohammed.alzard/)
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... **I enjoy my Profession**
 
 <p align="left"> <a href="https://twitter.com/mohammed_alzard" target="blank"><img src="https://img.shields.io/twitter/follow/mohammed_alzard?logo=twitter&style=for-the-badge" alt="mohammed_alzard" /></a> </p>
 
-- 🔭 I’m currently working at ... **NITBee**
-
-- 🤔 I’m looking for help with ... **ERPNext System**
-
-- 🌱 I’m currently teaching ... **ERPNext**
-
-- 👯 I’m looking to collaborate on ... **ERPNext**
-
-- 📫 How to reach me: ... [Twitter](Twitter)
-
-- 📫 Also on Instagram: ... [Instagram](Instagram)
-
-- 💬 Ask me about ... **Anything**
-
-- 😄 Pronouns: ... [He/Him](He/Him)
-
-- ⚡ Fun fact: ... **I enjoy my Profession**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
