@@ -21,7 +21,7 @@
 
 - 😄 Pronouns: ... [He/Him](He/Him)
 
-- ⚡ Fun fact **I enjoy my Profession**
+- ⚡ Fun fact: ... **I enjoy my Profession**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
