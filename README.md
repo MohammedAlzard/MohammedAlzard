@@ -13,8 +13,8 @@
 - 👯 I’m looking to collaborate on ... **ERPNext**
 - 🤔 I’m looking for help with ... **ERPNext System**
 - 💬 Ask me about ... **Anything**
-- 📫 How to reach me: ... [Twitter](https://twitter.com/mohammed_alzard)
-- 📫 Also on YouTube: ... [Instagram](https://www.instagram.com/mohammed.alzard/)
+#- 📫 How to reach me: ... [Twitter](https://twitter.com/mohammed_alzard)
+/* - 📫 Also on YouTube: ... [Instagram](https://www.instagram.com/mohammed.alzard/)*/
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... **I enjoy my Profession**
 
